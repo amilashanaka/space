@@ -11,7 +11,7 @@ public function __construct()
     self::$host="localhost";
     self::$user="root";
     self::$pass="";
-    self::$db="rs";
+    self::$db="spicer";
     $this->connect();
 
 }
